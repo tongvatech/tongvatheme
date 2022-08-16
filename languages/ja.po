@@ -1,0 +1,420 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kiyono\n"
+"POT-Creation-Date: 2021-05-19 11:17-0400\n"
+"PO-Revision-Date: 2021-05-19 11:52-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: comments.php:34 single.php:79
+msgid "Page"
+msgstr "ページ"
+
+#: comments.php:39
+#, fuzzy
+msgid "Older comments"
+msgstr "古いコメント"
+
+#: comments.php:43
+#, fuzzy
+msgid "Newer comments"
+msgstr "新しいコメント"
+
+#: comments.php:51
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#: comments.php:60
+msgid "Leave a comment"
+msgstr "コメントを残す"
+
+#: footer.php:5
+#, fuzzy
+msgid "Go to top"
+msgstr "トップへ移動"
+
+#. translators: %s: CMS name, i.e. WordPress.
+#: footer.php:16
+#, php-format
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#. translators: 1: Theme name, 2: Theme author.
+#: footer.php:23
+#, fuzzy, php-format
+msgid "%1$s theme made by %2$s"
+msgstr "%2$sが作った%1$sテーマ"
+
+#: header.php:27
+msgid "Skip to content"
+msgstr "コンテンツへ移動"
+
+#: header.php:50
+#, fuzzy
+msgctxt "submit button"
+msgid "Open search"
+msgstr "検索を開く"
+
+#: header.php:51
+#, fuzzy
+msgid "Open search"
+msgstr "検索を開く"
+
+#. translators: %s: WordPress Version.
+#: includes/back-compat.php:25 includes/back-compat.php:37
+#: includes/back-compat.php:56
+#, fuzzy, php-format
+msgid ""
+"This theme requires WordPress 5.3 or newer. You are running version %s. "
+"Please upgrade."
+msgstr ""
+"このテーマは、ワードプレス5.3以降が必要です。バージョン %sを実行しています。"
+"アップグレードしてください。"
+
+#. Theme Name of the plugin/theme
+#: includes/block-patterns.php:8
+msgid "Kiyono"
+msgstr "Kiyono"
+
+#: includes/block-patterns.php:23
+#, fuzzy
+msgid "Big heading and subtitle"
+msgstr "大きな見出しとサブタイトル"
+
+#: includes/block-patterns.php:26
+#, fuzzy
+msgctxt "Block pattern description"
+msgid "Big heading with subtitle followed by a separator."
+msgstr "字幕が付いた大きな見出しに区切り文字が続きます。"
+
+#: includes/block-patterns.php:27 includes/block-patterns.php:39
+msgid "About"
+msgstr "About"
+
+#: includes/block-patterns.php:27 includes/block-patterns.php:39
+#: includes/block-patterns.php:84
+#, fuzzy
+msgid "How did I get here?"
+msgstr "どうやってここに来たの?"
+
+#: includes/block-patterns.php:35
+#, fuzzy
+msgid "Big heading and subtitle with black background"
+msgstr "黒い背景を持つ大きな見出しと字幕"
+
+#: includes/block-patterns.php:38
+msgctxt "Block pattern description"
+msgid ""
+"Big heading with subtitle followed by a separator with black background."
+msgstr "黒の背景を持つ字幕付きとセパレーター付きのヘッダー。"
+
+#: includes/block-patterns.php:47
+msgid "Image and text side by side in full width column with beige background"
+msgstr "ベージュの背景を持つ横に並んだ画像とテキスト。"
+
+#: includes/block-patterns.php:50
+msgid "Two columns block with beige background color."
+msgstr "ベージュの背景色を持つ 2 つのコラム。"
+
+#: includes/block-patterns.php:53 includes/block-patterns.php:67
+#: includes/block-patterns.php:87
+#, fuzzy
+msgid "Maranta Porteana"
+msgstr "マランタ ポルテアナ"
+
+#: includes/block-patterns.php:62
+msgid "Image and text side by side in full width column with black background"
+msgstr "黒色の背景を持つ横に並んだ画像とテキスト。"
+
+#: includes/block-patterns.php:65
+msgid "Two columns block with black background color."
+msgstr "黒色の背景色を持つ 2 つのコラム。"
+
+#: includes/block-patterns.php:75
+msgid "Big heading in black background. Image and text side by side"
+msgstr "黒の背景にある大きな見出しと、横に並んだ画像とテキスト。"
+
+#: includes/block-patterns.php:78
+msgctxt "Block pattern description"
+msgid "Big heading in black background. Image and text side by side"
+msgstr "黒の背景にある大きな見出しと、横に並んだ画像とテキスト。"
+
+#: includes/block-patterns.php:83
+msgid "ABOUT"
+msgstr "About"
+
+#: includes/block-patterns.php:87
+#, fuzzy
+msgid ""
+"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec mollis. "
+"Quisque convallis libero in sapien pharetra tincidunt. Aliquam elit ante, "
+"malesuada id, tempor eu, gravida id, odio. Maecenas suscipit, risus et "
+"eleifend imperdiet, nisi orci ullamcorper massa, et adipiscing orci velit "
+"quis magna."
+msgstr ""
+"ロレム・イプサム・ドロールはアメットに座り、エリートを征服する。ドネック・モ"
+"リスサピエン・ファレトラ・ティンシドゥンのクイスク・コンヴァリス・リベロ。ア"
+"リクアム・エリット・アンティ、マレスアダID、テンペル・ユー、グラビダ・イド、"
+"オディオ。マエセナス・スシピット、リスス・エ・エレフェンド・インパーダイエッ"
+"ト、ニシ・オルシ・ウラムコンパー・マッサ、エ・アディピシング・オルシ・ヴェ"
+"リット・クイス・マグナ。"
+
+#: includes/block-patterns.php:89
+#, fuzzy
+msgid ""
+"Cras volutpat, lacus quis semper pharetra, nisi enim dignissim est, et "
+"sollicitudin quam ipsum vel mi. Sed commodo urna ac urna. Nullam eu tortor. "
+"Curabitur sodales scelerisque magna. Donec ultricies tristique pede. Nullam "
+"libero. Nam sollicitudin felis vel metus. Nullam posuere molestie metus. "
+"Nullam molestie, nunc id suscipit rhoncus, felis mi vulputate lacus, a "
+"ultrices tortor dolor eget augue. Aenean ultricies felis ut turpis. Lorem "
+"ipsum dolor sit amet, consectetuer adipiscing elit. Suspendisse placerat "
+"tellus ac nulla. Proin adipiscing sem ac risus. Maecenas nisi. Cras semper.?"
+msgstr ""
+"クラス・ヴォルットパット、ラクス・クイス・センパー・ファレトラ、ニシ・エニ"
+"ム・ディグニシム・エスト、エ・ソリシトゥディン・クサム・イプサム・ヴェル・ミ"
+"セド・コモド・ウルナ・アク・ウルナヌラム・ユー・トルターキュラビトゥール・ソ"
+"ダレス・セレリスク・マグナドニック・ウルトリシーズ・トリステク・ペデヌラム・"
+"リベロナム・ソリシトゥディン・フェリス・ヴェル・メトゥスヌラム・ポスエ・モレ"
+"スティ・メトゥスヌラム・モレスティ、ヌンク・イド・スシピット・ロンカス、フェ"
+"リス・ミ・ブルプテ・ラクス、ウルトリセス・トルター・ドル・エゲット・オーグ。"
+"アイネアン・ウルトリシー・フェリス・ウット・ターピスロレム・イプサム・ドロー"
+"ルはアメットに座り、エリートを征服する。サスペンドシスプレイスラットはac "
+"nullaを伝えます。プロイン・アディピシング・セム・アク・リススマエセナス・ニシ"
+"クラスセンパー.?"
+
+#: includes/block-patterns.php:89
+#, fuzzy
+msgid ""
+"Praesent interdum mollis neque. In egestas nulla eget pede. Integer eu purus "
+"sed diam dictum scelerisque. Morbi cursus velit et felis. Maecenas faucibus "
+"aliquet erat. In aliquet rhoncus tellus. Integer auctor nibh a nunc "
+"fringilla tempus. Cras turpis urna, dignissim vel, suscipit pulvinar, rutrum "
+"quis, sem. Ut lobortis convallis dui. Sed nonummy orci a justo. Morbi nec "
+"diam eget eros eleifend tincidunt."
+msgstr ""
+"プラーゼント・インターダム・モリ・ネケエゲスタヌラエゲットペデで。整数eu"
+"ピューラスセッドダイムディクタムセレリスク。モルビ・クルサス・ヴェリット・"
+"エ・フェリスマエセナス・ファウシバス・アリケ・エラットアリケ・ロンカスのテル"
+"スで。整数のオークトル・ニブ・ア・ヌンク・フリンギラ・テンプス。クラス・ター"
+"ピス・ウルナ、ディグニシム・ヴェル、スシピット・プルヴィナール、ルトラム・ク"
+"イス、セム。ウット・ロボルティス・コンヴァリス・ドゥイセド・ノミー・オルチ・"
+"ア・ジャストモルビ・ネク・ディアム・エゲット・エゲ・エリュフェンド・ティンシ"
+"ドゥン"
+
+#: includes/block-styles.php:12
+msgid "Rounded Corners"
+msgstr "角丸"
+
+#: includes/block-styles.php:21
+msgid "Frame"
+msgstr "フレーム"
+
+#: includes/customizer.php:32
+#, fuzzy
+msgid "Display Site Title & Tagline"
+msgstr "サイトのタイトルとキャッチフレーズを表示する"
+
+#: includes/customizer.php:37 includes/customizer.php:57
+#: includes/customizer.php:78 includes/customizer.php:99
+#: includes/customizer.php:120
+msgid "Theme Options"
+msgstr "テーマオプション"
+
+#: includes/customizer.php:52
+#, fuzzy
+msgid "Make site name big on desktop."
+msgstr "デスクトップ上でサイト名を大きくする。"
+
+#: includes/customizer.php:72
+#, fuzzy
+msgid "Show search in header on desktop."
+msgstr "デスクトップ上のヘッダーに検索を表示します。"
+
+#: includes/customizer.php:93
+#, fuzzy
+msgid "Add a placefolder image when a post is missing featured image."
+msgstr "投稿に注目の画像が見つからない場合は、場所フォルダの画像を追加します。"
+
+#: includes/customizer.php:114
+#, fuzzy
+msgid "Remove feature image on single post page."
+msgstr "シングル投稿ページでフィーチャ画像を削除します。"
+
+#: includes/customizer.php:135
+msgid "Remove animation on featured images."
+msgstr "注目の画像についたアニメーションを削除します。"
+
+#: includes/setup.php:57
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#. translators: %s: Author name.
+#: includes/template-tags.php:17
+#, fuzzy, php-format
+msgid " by %s"
+msgstr "%s発行済"
+
+#. translators: %s: Publish date.
+#: includes/template-tags.php:71
+#, fuzzy, php-format
+msgid "Published %s"
+msgstr "公開%s"
+
+#. translators: %s: search query.
+#: includes/template-tags.php:131
+#, php-format
+msgid "Search Results for: %s"
+msgstr "「%s」の検索結果"
+
+#: includes/template-tags.php:144
+msgid "Newer"
+msgstr "最近の"
+
+#: includes/template-tags.php:145
+msgid "Older"
+msgstr "以前の"
+
+#: includes/template-tags.php:146
+msgid "Go to page"
+msgstr "ページに行く"
+
+#: includes/template-tags.php:180 includes/template-tags.php:184
+#: includes/template-tags.php:186
+#, fuzzy
+msgid "Skip to comment section"
+msgstr "コメントセクションにスキップ"
+
+#: includes/template-tags.php:180
+msgid "1 comment"
+msgstr "1件のコメント"
+
+#. translators: %s: Comment count number.
+#: includes/template-tags.php:186
+#, php-format
+msgctxt "Comments title"
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] "%s コメント"
+
+#: includes/template-tags.php:203
+#, fuzzy
+msgid "Open menu"
+msgstr "メニューを開く"
+
+#: includes/widgets.php:5
+msgid "Footer"
+msgstr "フッター"
+
+#: includes/widgets.php:7
+msgid "Add widgets here to appear in your footer."
+msgstr "フッターに表示するウィジェットを追加します。"
+
+#: searchform.php:8
+msgid "Search"
+msgstr "検索"
+
+#: searchform.php:14
+msgctxt "placeholder"
+msgid "Search"
+msgstr "検索"
+
+#: searchform.php:18
+msgctxt "submit button"
+msgid "Submit search"
+msgstr "検索の送信"
+
+#: searchform.php:18
+#, fuzzy
+msgctxt "submit button"
+msgid "Submit search button"
+msgstr "[検索の送信] ボタン"
+
+#: searchform.php:19
+msgid "Submit search"
+msgstr "検索の送信"
+
+#: searchform.php:25
+#, fuzzy
+msgctxt "submit button"
+msgid "Close search form"
+msgstr "検索フォームを閉じる"
+
+#: searchform.php:26
+#, fuzzy
+msgid "Close search form"
+msgstr "検索フォームを閉じる"
+
+#. translators: %: Page number.
+#: single.php:82
+msgid "Page %"
+msgstr "ページ %"
+
+#: template-parts/content-excerpt.php:46
+#, fuzzy
+msgid "... read more"
+msgstr "...続きを読む"
+
+#: template-parts/content-none.php:8
+msgid "Nothing Found"
+msgstr "何も見つかりません"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:27
+#, fuzzy, php-format
+msgid "Continue reading<span class=\"visuallyhidden\"> \"%s\"</span>"
+msgstr "続きを読む<span class=\"visuallyhidden\"> \" %s \"</span>"
+
+#: template-parts/content.php:40
+msgid "Pages:"
+msgstr "ページ:"
+
+#: template-parts/header/site-navigation.php:3
+#, fuzzy
+msgid "Navigation button"
+msgstr "ナビゲーションボタン"
+
+#. Theme URI of the plugin/theme
+#, fuzzy
+msgid "https://www.benachi.com/kiyono-wordpress-theme/"
+msgstr "https://www.benachi.com/kiyono-wordpress-theme/"
+
+#. Description of the plugin/theme
+msgid ""
+"Kiyono is my 3rd WordPress theme named after my grandmother. Kiyono is a "
+"simple blog theme, yet it is equipped with five block patterns and a blank "
+"template for those who are experimenting with WordPress’s Latest Full Site "
+"Editing.  Kiyono theme is responsive and Gutenberg ready, and it is an "
+"accessibility-ready theme. It helps to create inclusive websites and improve "
+"the user experience for those who rely on assistive technologies."
+msgstr ""
+"Kiyonoは私の祖母にちなんで名付けられた私の3番目のワードプレスのテーマです。"
+"Kiyonoは、シンプルなブログテーマですが、5つのブロックパターンとWordPressの最"
+"新のフルサイト編集を活用できる空白のテンプレートが装備されています。 Kiyonoは"
+"レスポンシブで、グーテンベルク、アクセシビリティ対応のテーマです。誰でも等し"
+"く利用できるWeb サイトを作成し、ユーザーエクスペリエンスを向上させるのに役立"
+"ちます。"
+
+#. Author of the plugin/theme
+msgid "Benachi"
+msgstr "Benachi"
+
+#. Author URI of the plugin/theme
+#, fuzzy
+msgid "https://www.benachi.com/"
+msgstr "https://www.benachi.com/"
