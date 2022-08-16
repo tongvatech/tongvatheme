@@ -263,6 +263,10 @@ code, kbd, samp, tt, var {
   border-radius: .25rem;
 }
 
+#map {
+  height: 340px;
+}
+
 /* 5. Links
 --------------------------------------------- */
 .site a,
@@ -588,8 +592,14 @@ textarea { width: 100%; }
   letter-spacing: -1px;
   font-weight: 600;
   text-decoration: none;
-  color: black;
   transition: .2s ease-in-out;
+  background: #3c5426;
+  color: #98d640;
+  padding: 5px;
+}
+
+.site .site-title a{
+  color: #98d640;
 }
 
 @media screen and (min-width: 993px) {
