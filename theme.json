@@ -17,6 +17,13 @@
 			]
 		},
 		{
+			"name": "page-no-heading",
+			"title": "Page (No Heading)",
+			"postTypes": [
+				"page"
+			]
+		},
+		{
 			"name": "page-map",
 			"title": "Page With Map",
 			"postTypes": [
